@@ -1,0 +1,9 @@
+/* Custom styles for Aetheris Health
+   The layout and most visual styling use Tailwind CSS utility classes.
+   Tailwind is loaded from its CDN in index.html.
+*/
+
+.appointment-pattern {
+    background-image: radial-gradient(#ffffff 1px, transparent 1px);
+    background-size: 24px 24px;
+}
